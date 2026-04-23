@@ -95,7 +95,8 @@ Hệ thống được xây dựng nhằm:
 
 ## 📸 Demo (Optional)
 
-> (Bạn có thể thêm ảnh giao diện web ở đây để tăng điểm đồ án)
+<img width="948" height="643" alt="image" src="https://github.com/user-attachments/assets/59ee3365-e5de-443b-b338-e7b7ec38a25a" />
+
 
 ---
 
