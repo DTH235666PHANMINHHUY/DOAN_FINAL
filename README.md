@@ -91,8 +91,11 @@ Hệ thống được xây dựng nhằm:
 ---
 
 ## 📸 Demo (Optional)
+
+
 Form đăng nhập:
 <img width="757" height="532" alt="image" src="https://github.com/user-attachments/assets/120aba64-19a5-4e65-a9db-f40cff01417f" />
+
 
 Form Main:
 Quyền admin
@@ -100,14 +103,18 @@ Quyền admin
 Quyền nhân viên
 <img width="925" height="664" alt="image" src="https://github.com/user-attachments/assets/1a782a7b-f1fc-439d-b90b-5c78e58c1b62" />
 
+
 Form Khách hàng:
 <img width="1024" height="864" alt="image" src="https://github.com/user-attachments/assets/e5ad1ecf-165a-4474-9963-7c105175d90c" />
+
 
 Form Nhân viên:
 <img width="1122" height="849" alt="image" src="https://github.com/user-attachments/assets/2da508ae-a7a6-4cb7-993e-47e186af6604" />
 
+
 Form Hóa đơn 
 <img width="975" height="838" alt="image" src="https://github.com/user-attachments/assets/5e6e510d-c714-436b-a846-688aea0cc6f0" />
+
 
 Form Báo cáo
 <img width="1120" height="524" alt="image" src="https://github.com/user-attachments/assets/1db2853a-26b2-443b-bd53-f3f02ea72833" />
@@ -139,15 +146,4 @@ Sau khi hoàn thành dự án, mình đã:
 
 ---
 
-## ⚠️ Gợi ý nâng cấp thêm (nếu muốn điểm cao hơn)
-
-Nếu bạn muốn README xịn hơn nữa, có thể thêm:
-
-* 📌 Sơ đồ database (ERD)
-* 📌 Use Case Diagram
-* 📌 Flow hệ thống
-* 📌 Video demo
-* 📌 Hướng dẫn cài đặt (Setup project)
-
----
 
