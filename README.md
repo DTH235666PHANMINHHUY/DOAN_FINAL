@@ -1,96 +1,118 @@
+Dưới đây là phiên bản **README đã chỉnh sửa lại hoàn toàn**, định hướng rõ ràng cho **đồ án quản lý cửa hàng xe máy** của bạn — chuyên nghiệp hơn, đúng mục tiêu học thuật + gây ấn tượng khi nộp hoặc đưa lên GitHub 👇
+
+---
+
 # 👋 Hi, I'm Minh Huy
 
 💻 **Information Technology Student (3rd Year)**
 🎓 University Student
-🥋 Former MMA Practitioner
-❤️ Currently Single
-⚡ *I can solve algorithm problems for hours without noticing time!*
+⚡ Passionate about building **Management Systems**
+🔥 Focused on real-world application development
 
 ---
 
-## 🚀 About Me
+## 🚀 Project: Motorcycle Store Management System
 
-* 🎯 Passionate about **Algorithms & Problem Solving**
-* 💡 Love writing efficient and clean code
-* 🧠 Strong focus on logic and optimization
-* 🔥 Always improving coding skills step by step
+💡 Đây là đồ án xây dựng hệ thống **quản lý cửa hàng xe máy**, giúp tối ưu việc vận hành và quản lý kinh doanh.
+
+### 🎯 Mục tiêu hệ thống
+
+✔️ Quản lý sản phẩm (xe máy)
+✔️ Quản lý danh mục xe
+✔️ Quản lý tồn kho
+✔️ Quản lý đơn hàng
+✔️ Quản lý khách hàng
+✔️ Tối ưu quy trình bán hàng
 
 ---
 
-## 🌐 Connect With Me
+## 🧠 Ý tưởng & Định hướng
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook\&logoColor=white)](https://facebook.com/https://www.facebook.com/share/19UYXh7sYB/)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok\&logoColor=white)](https://tiktok.com/@@minhhuy143)
+Hệ thống được xây dựng nhằm:
+
+* 📊 Giúp cửa hàng quản lý dữ liệu một cách **khoa học và hiệu quả**
+* ⚡ Tăng tốc độ xử lý thông tin và giảm sai sót thủ công
+* 🛒 Mô phỏng một hệ thống **thương mại điện tử thực tế**
+* 🔥 Áp dụng kiến thức về **backend + database + frontend**
 
 ---
 
 ## 💻 Tech Stack
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+### 🔧 Backend
+
+* PHP (Native)
+* MySQL
+
+### 🎨 Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+
+### 🧠 Programming Skills Applied
+
+* Data Structures & Algorithms
+* Database Design (ERD, Normalization)
+* CRUD Operations
+* MVC Thinking (basic structure)
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Main Features
 
-![](https://github-readme-stats.vercel.app/api?username=DTH235666PHANMINHHUY\&theme=radical\&hide_border=true)
+### 🏍️ Product Management
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=DTH235666PHANMINHHUY\&theme=radical\&hide_border=true)
+* Thêm / sửa / xóa xe máy
+* Hiển thị danh sách sản phẩm
+* Quản lý giá, giảm giá, tồn kho
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DTH235666PHANMINHHUY\&theme=radical\&layout=compact\&hide_border=true)
+### 📁 Category Management
 
----
+* Phân loại xe theo hãng / loại
+* Lọc sản phẩm theo danh mục
 
-## 🏆 Achievements
+### 🛒 Order System
 
-![](https://github-trophies.vercel.app/?username=DTH235666PHANMINHHUY\&theme=radical\&no-frame=true\&margin-w=6)
+* Tạo đơn hàng
+* Quản lý trạng thái đơn
 
----
+### 👤 Customer Management
 
-## ✍️ Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
-
----
-
-## 😂 Dev Meme
-
-<img src="https://random-memer.herokuapp.com/" width="400px"/>
+* Lưu thông tin khách hàng
+* Theo dõi lịch sử mua hàng
 
 ---
 
-## 🧠 Learning Python (Beginner Section)
+## 📊 System Highlights
 
-### 🎯 Goals
-
-✔️ Understand Python basic syntax
-✔️ Use `print()` for output
-✔️ Write simple programs
+✨ Giao diện thân thiện, dễ sử dụng
+✨ Code rõ ràng, dễ mở rộng
+✨ Database chuẩn hóa, tránh dư thừa dữ liệu
+✨ Phù hợp mô hình cửa hàng thực tế
 
 ---
 
-### 🖨️ print() — Output to Screen
+## 📸 Demo (Optional)
 
-📌 **Syntax:**
+> (Bạn có thể thêm ảnh giao diện web ở đây để tăng điểm đồ án)
 
-```python
-print("Hello, World!")
-```
+---
 
-📌 **Example:**
+## 🧪 Learning Outcomes
 
-```python
-print("My name is Minh Huy")
-print("I love coding!")
-```
+Sau khi hoàn thành dự án, mình đã:
+
+✔️ Hiểu rõ cách xây dựng hệ thống quản lý thực tế
+✔️ Thành thạo CRUD với PHP & MySQL
+✔️ Biết cách tổ chức project rõ ràng
+✔️ Cải thiện tư duy logic & xử lý dữ liệu
 
 ---
 
 ## 🔥 Personal Motto
 
-> “Code. Improve. Repeat.”
+> “Build real systems. Solve real problems.”
 
 ---
 
@@ -99,3 +121,16 @@ print("I love coding!")
 ![](https://visitcount.itsvg.in/api?id=DTH235666PHANMINHHUY\&icon=5\&color=12)
 
 ---
+
+## ⚠️ Gợi ý nâng cấp thêm (nếu muốn điểm cao hơn)
+
+Nếu bạn muốn README xịn hơn nữa, có thể thêm:
+
+* 📌 Sơ đồ database (ERD)
+* 📌 Use Case Diagram
+* 📌 Flow hệ thống
+* 📌 Video demo
+* 📌 Hướng dẫn cài đặt (Setup project)
+
+---
+
